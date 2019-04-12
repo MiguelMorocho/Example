@@ -1,1 +1,2 @@
-Esto es un ejemplo de un conflicto
+Esto es un "Esto se va a descontrolar"
+ejemplo de un conflicto
